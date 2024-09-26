@@ -11,7 +11,7 @@
 
 <h3 align="left">my profile:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sukant-c-b6bba4317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukant-c-b6bba4317/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sukant-c-b6bba4317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukant-c-b6bba4317/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sukant_1947/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sukant_1947/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/sukant_2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sukant_2005/" height="30" width="40" /></a>
 </p>
