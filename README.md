@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sukant98657@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">profile me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sukant-c-b6bba4317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukant-c-b6bba4317/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/sukant_1947/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sukant_1947/" height="30" width="40" /></a>
