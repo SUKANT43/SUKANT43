@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA,SQL**
 
-- 📫 How to reach me **sukant98657@gmail.com**
+- 📫  reach me **sukant98657@gmail.com**
 
 <h3 align="left">my profile:</h3>
 <p align="left">
