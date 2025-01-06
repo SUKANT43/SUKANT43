@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **MERN stack and Java**
 
 - 📫  reach me **sukant98657@gmail.com**
 
