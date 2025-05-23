@@ -42,6 +42,13 @@
 <a href="https://www.zustand.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/media/logo.png" alt="zustand" width="40" height="40" />
 </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+</a>
+<a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40" />
+</a>
+
 
 
 
