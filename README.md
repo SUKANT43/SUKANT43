@@ -40,7 +40,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://www.zustand.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/media/logo.png" alt="zustand" width="40" height="40" />
+  <img src="https://zustand-demo.pmnd.rs/logo192.png" alt="zustand" width="40" height="40" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
