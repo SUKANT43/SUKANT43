@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sukant.netlify.app/](https://portfolio-sukant.netlify.app/)
+- 👨‍💻 My Portfolio: [https://portfolio-sukant.netlify.app/](https://portfolio-sukant.netlify.app/)
 
 - 💬 Ask me about **Full Stack, Mobile and Desktop Development**
 
