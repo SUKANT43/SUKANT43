@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUKANT C</h1>
+<h1 align="center">Hi 👋, I'm SUKANT </h1>
 <h3 align="center">A passionate Full Stack, Mobile and Desktop developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukant43&label=Profile%20views&color=0e75b6&style=flat" alt="sukant43" /> </p>
