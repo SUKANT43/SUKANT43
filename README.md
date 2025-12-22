@@ -60,6 +60,9 @@
 
 ## 🐍 Contribution Snake (Green)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SUKANT43/SUKANT43/main/dist/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SUKANT43/SUKANT43/main/dist/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/SUKANT43/SUKANT43/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
