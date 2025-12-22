@@ -20,7 +20,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to main branch
+      - name: Commit files
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate contribution snake"
