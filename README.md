@@ -51,12 +51,21 @@
 </p>
 
 ---
-## 📈 Contribution Overview
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SUKANT43&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukant43&theme=tokyonight" alt="Top Langs by Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sukant43&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukant43&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sukant43&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sukant43&theme=tokyonight" alt="sukant43 Streak Stats" />
+</p>
 
 ## 🐍 Contribution Snake (Green)
 <p align="center">
