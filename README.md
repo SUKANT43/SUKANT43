@@ -51,21 +51,15 @@
 </p>
 
 ---
-
 ## 📈 Contribution Overview
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sukant43&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SUKANT43&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Green)
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/sukant43/sukant43/output/github-contribution-grid-snake-dark.svg" />
-    <img 
-      src="https://raw.githubusercontent.com/sukant43/sukant43/output/github-contribution-grid-snake.svg" 
-      alt="github contribution snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/SUKANT43/SUKANT43/main/dist/github-contribution-grid-snake.svg" />
 </p>
+
