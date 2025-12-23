@@ -67,6 +67,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sukant43&theme=tokyonight" alt="sukant43 Streak Stats" />
 </p>
 
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukant43&theme=tokyonight"
+    alt="Sukant GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
