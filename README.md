@@ -64,12 +64,9 @@
 </p>
 
 <p align="center">
-  <img
-    width="500"
-    src="https://streak-stats.demolab.com?user=sukant43&theme=tokyonight&hide_border=true"
-    alt="sukant43 GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukant43&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
